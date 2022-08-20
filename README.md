@@ -17,7 +17,7 @@
 - Adding HTML Part took 3-5 hour.
 - Tailwind css part and Responsive Design part took more than 6-8 hour.
 
-**Live Link :** [Click Here](https://paytm.vercel.app/ "Deployed on Vercel")
+**Live Link :** [Click Here](https://paytm-website.netlify.app/ "Deployed on Vercel")
 
 >### Preview :
 ![Homepage screenshot](./public/preview.png "Paytm Website Clone Project")
